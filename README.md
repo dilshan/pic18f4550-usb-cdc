@@ -4,4 +4,6 @@ This is a USB *communication device class* (CDC) template for [PIC18F4550](https
 
 The test schematic for this template is shown below:
 
+![USB Schematic](https://raw.githubusercontent.com/dilshan/pic18f4550-usb-cdc/master/pic18f4550-usb-schematic.svg?sanitize=true)
+
 **Note:** This project does not require addtional libraries or tools to compile. All the required Microchip source files are included into this template.
